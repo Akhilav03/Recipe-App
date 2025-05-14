@@ -2,13 +2,6 @@
 
 Welcome to **Chef Claude** — a smart, minimal, and colourful web app that helps you turn the ingredients you have into delicious recipes 🍽️
 
-![Screenshot 1](./src/assets/CC1.png)
-![Screenshot 2](./src/assets/CC2.png)
-![Screenshot 3](./src/assets/CC3.png)
-![Screenshot 4](./src/assets/CC4.png)
-
-
-
 ---
 
 ## 🔍 Features
@@ -44,7 +37,7 @@ To run the project locally:
 ### 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/chef-claude.git
+git clone https://github.com/Akhilav03/Recipe-App.git
 cd chef-claude
 npm install
 ```
@@ -66,7 +59,6 @@ npm run dev
 ### 📁 Folder Structure
 
 ```
-
 src/
 ├── assets/
 ├── components/ # React components
@@ -81,7 +73,6 @@ src/
 .
 .
 .
-
 ```
 ---
 
